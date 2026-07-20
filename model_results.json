@@ -1,0 +1,41 @@
+{
+  "results": {
+    "Linear Regression": {
+      "r2": 0.770633392690429,
+      "mae": 0.44880132231362246
+    },
+    "Random Forest": {
+      "r2": 0.6752873923869509,
+      "mae": 1.108442225209435
+    }
+  },
+  "best_model": "Linear Regression",
+  "feature_names": [
+    "Grade_Level",
+    "Current_Semester",
+    "Age",
+    "Section",
+    "Class_Participation_Score",
+    "Hours_Studied",
+    "Attendance",
+    "Parental_Involvement",
+    "Access_to_Resources",
+    "Extracurricular_Activities",
+    "Sleep_Hours",
+    "Previous_Scores",
+    "Motivation_Level",
+    "Internet_Access",
+    "Tutoring_Sessions",
+    "Family_Income",
+    "Teacher_Quality",
+    "School_Type",
+    "Peer_Influence",
+    "Physical_Activity",
+    "Learning_Disabilities",
+    "Parental_Education_Level",
+    "Distance_from_Home",
+    "Gender",
+    "Study_Efficiency",
+    "Support_Index"
+  ]
+}
